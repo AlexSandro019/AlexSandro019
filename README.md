@@ -22,7 +22,7 @@ Estou empenhado em desenvolver projetos pessoais e estou sempre em busca de novo
 
 Aqui estão as linguagens que mais utilizo em meus projetos e repositórios no GitHub:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandro&layout=compact&langs_count=6&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSandro019&layout=compact&langs_count=6&theme=dracula)
 
 ## Como entrar em contato
 
