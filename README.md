@@ -22,9 +22,9 @@ Estou empenhado em desenvolver projetos pessoais e estou sempre em busca de novo
 
 Estou disponível para discussões sobre oportunidades de estágio e estou disposto a aprender em um ambiente profissional desafiador. Para entrar em contato, você pode me achar:
 
-- **E-mail** 📧: [alex.sandro@email.com](mailto:alex.sandro@email.com)
-- **LinkedIn** 🔗: [linkedin.com/in/alexsandro](https://www.linkedin.com/in/alexsandro)
-- **GitHub** 👨‍💻: [github.com/alexsandro](https://github.com/alexsandro)
+- **E-mail** 📧: [alexsandro050524@gmail.com](mailto:alexsandro050524@gmail.com)
+- **LinkedIn** 🔗: [linkedin.com/in/AlexSandro019]()
+- **GitHub** 👨‍💻: [github.com/Arekz](https://github.com/AlexSandro019)
 
 ## Objetivo
 
