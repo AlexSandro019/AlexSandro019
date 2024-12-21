@@ -18,6 +18,12 @@ Estou empenhado em desenvolver projetos pessoais e estou sempre em busca de novo
 -  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) Desenvolvimento de layouts responsivos, utilização de Flexbox e Grid, personalização de estilos e animações.
 -  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) Programação de funcionalidades dinâmicas, manipulação do DOM, eventos e consumo de APIs.
 
+  ## Top Linguagens Usadas
+
+Aqui estão as linguagens que mais utilizo em meus projetos e repositórios no GitHub:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandro&layout=compact&langs_count=6&theme=dracula)
+
 ## Como entrar em contato
 
 Estou disponível para discussões sobre oportunidades de estágio e estou disposto a aprender em um ambiente profissional desafiador. Para entrar em contato, você pode me achar:
